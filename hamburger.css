@@ -27,7 +27,8 @@ hamburger{
   
   #hamburger-1.is-active .line:nth-child(2){
     opacity: 0;
-  }
+  
+}
   
   #hamburger-1.is-active .line:nth-child(1){
     -webkit-transform: translateY(13px) rotate(45deg);
